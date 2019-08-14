@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">and-design-assignment-newsreader</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
 </resources>
