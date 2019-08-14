@@ -1,6 +1,5 @@
 package com.example.and_design_assignment_newsreader
 
-import android.app.ListActivity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
