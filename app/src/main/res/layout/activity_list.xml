@@ -14,6 +14,7 @@
             android:layout_margin="8dp">
 
         <ImageView
+                android:id="@+id/image_one"
                 android:src="@drawable/image_one"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
@@ -25,10 +26,12 @@
                 android:gravity="center">
 
             <ImageView
+                    android:id="@+id/image_two"
                     android:src="@drawable/image_two"
                     style="@style/SmallImages"/>
 
             <ImageView
+                    android:id="@+id/image_three"
                     android:src="@drawable/image_two"
                     style="@style/SmallImages"/>
         </LinearLayout>
@@ -40,10 +43,12 @@
                 android:gravity="center">
 
             <ImageView
+                    android:id="@+id/image_four"
                     android:src="@drawable/image_two"
                     style="@style/SmallImages"/>
 
             <ImageView
+                    android:id="@+id/image_five"
                     android:src="@drawable/image_two"
                     style="@style/SmallImages"/>
         </LinearLayout>
