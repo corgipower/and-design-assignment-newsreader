@@ -17,4 +17,11 @@
         <item name="android:layout_marginLeft">8dp</item>
     </style>
 
+    <style name="SmallImages">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">180dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
 </resources>
