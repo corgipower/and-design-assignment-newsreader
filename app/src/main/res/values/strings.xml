@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">and-design-assignment-newsreader</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="text_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Felis bibendum ut tristique et egestas quis ipsum suspendisse. In aliquam sem
+        fringilla ut morbi. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Pretium viverra
+        suspendisse potenti nullam ac tortor. Mattis rhoncus urna neque viverra justo nec ultrices. Vel turpis nunc eget
+        lorem dolor sed viverra. Nec tincidunt praesent semper feugiat nibh sed. Nisl pretium fusce id velit ut. Id
+        donec ultrices tincidunt arcu non sodales neque sodales ut. Ultricies mi quis hendrerit dolor magna. Cursus in
+        hac habitasse platea dictumst quisque sagittis purus sit. Vulputate ut pharetra sit amet. Egestas pretium aenean
+        pharetra magna. Varius vel pharetra vel turpis nunc. Aliquet lectus proin nibh nisl. Amet nisl purus in mollis
+        nunc. Elementum integer enim neque volutpat ac tincidunt vitae semper. Vestibulum sed arcu non odio. Nisi lacus
+        sed viverra tellus in hac habitasse. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Pretium
+        nibh ipsum consequat nisl. Purus faucibus ornare suspendisse sed nisi. Lacus sed turpis tincidunt id aliquet.
+        Purus semper eget duis at tellus. Vitae tempus quam pellentesque nec nam aliquam sem et. Elit at imperdiet dui
+        accumsan sit amet nulla. Aliquet risus feugiat in ante metus dictum. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada. In ornare quam viverra orci sagittis. Cras sed felis eget velit. Malesuada fames
+        ac turpis egestas sed tempus urna et. Vitae auctor eu augue ut lectus arcu. Posuere lorem ipsum dolor sit amet
+        consectetur. At consectetur lorem donec massa sapien faucibus et molestie. Fringilla est ullamcorper eget nulla.
+        Quis commodo odio aenean sed adipiscing diam donec adipiscing. Enim facilisis gravida neque convallis a cras
+        semper. Scelerisque purus semper eget duis. Orci ac auctor augue mauris augue neque gravida in. Porttitor massa
+        id neque aliquam vestibulum morbi. Risus viverra adipiscing at in tellus integer. Tristique risus nec feugiat in
+        fermentum posuere. Urna nec tincidunt praesent semper feugiat nibh. Adipiscing tristique risus nec feugiat in.
+        Cursus metus aliquam eleifend mi in. Viverra orci sagittis eu volutpat odio. A erat nam at lectus urna duis
+        convallis convallis. Purus in mollis nunc sed. Id leo in vitae turpis massa sed elementum. Nibh tortor id
+        aliquet lectus proin. Mauris vitae ultricies leo integer malesuada nunc vel. Augue lacus viverra vitae congue eu
+        consequat ac. Vitae turpis massa sed elementum tempus egestas sed sed risus. In iaculis nunc sed augue. Ultrices
+        gravida dictum fusce ut placerat orci nulla. Mi tempus imperdiet nulla malesuada pellentesque elit. Sagittis
+        nisl rhoncus mattis rhoncus urna neque viverra justo. Vivamus arcu felis bibendum ut tristique et egestas quis
+        ipsum. Ac turpis egestas maecenas pharetra. Amet porttitor eget dolor morbi non arcu risus. Parturient montes
+        nascetur ridiculus mus mauris vitae ultricies leo integer. Varius morbi enim nunc faucibus a pellentesque sit.
+        Nisi porta lorem mollis aliquam. Arcu ac tortor dignissim convallis. Turpis egestas maecenas pharetra convallis.
+        Orci phasellus egestas tellus rutrum. Convallis tellus id interdum velit laoreet id donec. Ultricies tristique
+        nulla aliquet enim tortor. Urna neque viverra justo nec ultrices. Mauris rhoncus aenean vel elit. Ut sem nulla
+        pharetra diam sit amet nisl suscipit adipiscing.
+    </string>
+    <string name="title">Lorem ipsum dolor sit amet</string>
+</resources>

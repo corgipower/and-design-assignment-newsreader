@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ListActivity">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="8dp">
+
+        <ImageView
+                android:id="@+id/image_one"
+                android:src="@drawable/image_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+            <ImageView
+                    android:id="@+id/image_two"
+                    android:src="@drawable/image_two"
+                    style="@style/SmallImages"/>
+
+            <ImageView
+                    android:id="@+id/image_three"
+                    android:src="@drawable/image_two"
+                    style="@style/SmallImages"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+            <ImageView
+                    android:id="@+id/image_four"
+                    android:src="@drawable/image_two"
+                    style="@style/SmallImages"/>
+
+            <ImageView
+                    android:id="@+id/image_five"
+                    android:src="@drawable/image_two"
+                    style="@style/SmallImages"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
