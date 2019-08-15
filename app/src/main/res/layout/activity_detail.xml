@@ -18,7 +18,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/title"
-            android:textSize="25sp"/>
+            android:textSize="25sp"
+            android:background="@color/colorAccentLight"
+            android:textColor="@color/colorAccentText"/>
 
     <ScrollView
             android:layout_width="wrap_content"
