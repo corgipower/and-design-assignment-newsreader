@@ -22,12 +22,16 @@
     <Button
             android:id="@+id/sign_in"
             style="@style/MainActivityStyle"
-            android:text="@string/sign_in"/>
+            android:text="@string/sign_in"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorPrimaryText"/>
 
     <Button
             android:id="@+id/register"
             style="@style/MainActivityStyle"
-            android:text="@string/register"/>
+            android:text="@string/register"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/colorPrimaryText"/>
 
 
 </LinearLayout>
